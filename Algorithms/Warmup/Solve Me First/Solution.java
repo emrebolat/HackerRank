@@ -16,7 +16,7 @@ public class Solution {
         sum = solveMeFirst(a, b);
         
         System.out.println(sum);
-		scan.close();
+	scan.close();
    }
     
     static int solveMeFirst(int a, int b) {
