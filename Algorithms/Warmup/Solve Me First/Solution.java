@@ -7,10 +7,10 @@ import java.util.regex.*;
 public class Solution {
    
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
         int a, b;
-        a = in.nextInt();
-        b = in.nextInt();
+        a = scan.nextInt();
+        b = scan.nextInt();
         
         int sum;
         sum = solveMeFirst(a, b);
