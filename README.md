@@ -15,3 +15,17 @@ My HackerRank solutions in Java
 | [Time Conversion](/Algorithms/Warmup/Time%20Conversion/Solution.java) | Easy | 15 | [Link](https://www.hackerrank.com/challenges/time-conversion) |
 | [Circular Array Rotation](/Algorithms/Warmup/Circular%20Array%20Rotation/Solution.java) | Easy | 20 | [Link](https://www.hackerrank.com/challenges/circular-array-rotation) |
 
+### Implementation
+| Challange | Difficulty | Points | Question |
+| --------- |:----------:|:------:|:--------:|
+| [Mini-Max Sum](/Algorithms/Implementation/Mini-Max%20Sum/Solution.java) | Easy | 10 | [Link](https://www.hackerrank.com/challenges/mini-max-sum) |
+| [Designer PDF Viewer](/Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.java) | Easy | 20 | [Link](https://www.hackerrank.com/challenges/designer-pdf-viewer) |
+| [Apple and Orange](/Algorithms/Implementation/Apple%20and%20Orange/Solution.java) | Easy | 10 | [Link](https://www.hackerrank.com/challenges/apple-and-orange) |
+
+### Strings
+| Challange | Difficulty | Points | Question |
+| --------- |:----------:|:------:|:--------:|
+| [Super Reduced String](/Algorithms/Strings/Super%20Reduced%20String/Solution.java) | Easy | 10 | [Link](https://www.hackerrank.com/challenges/reduced-string) |
+| [CamelCase](/Algorithms/Strings/CamelCase/Solution.java) | Easy | 15 | [Link](https://www.hackerrank.com/challenges/camelcase) |
+| [Pangrams](/Algorithms/Strings/Pangrams/Solution.java) | Easy | 20 | [Link](https://www.hackerrank.com/challenges/pangrams) |
+
