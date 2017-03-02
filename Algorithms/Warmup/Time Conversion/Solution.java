@@ -4,10 +4,10 @@ import java.util.*;
 public class Solution {
 
     public static void main(String[] args) {
-        
+
         Scanner scan = new Scanner(System.in);
         String[] time = scan.nextLine().split(":");
-        
+
         String hours = time[0];
         String minutes = time[1];
         String seconds = time[2].substring(0,2);

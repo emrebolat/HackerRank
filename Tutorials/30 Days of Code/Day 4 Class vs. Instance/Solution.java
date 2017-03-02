@@ -1,6 +1,6 @@
 public class Person {
-    private int age;	
-  
+    private int age;
+
 	public Person(int initialAge) {
         if(initialAge < 0){
             age = 0;
@@ -21,7 +21,6 @@ public class Person {
         else{
             System.out.println("You are old.");
         }
-        
 	}
 
 	public void yearPasses() {

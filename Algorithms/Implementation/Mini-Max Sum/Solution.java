@@ -13,18 +13,18 @@ public class Solution {
         long c = scan.nextLong();
         long d = scan.nextLong();
         long e = scan.nextLong();
-        
+
         long[] array = {a,b,c,d,e};
         Arrays.sort(array);
-        
+
         long min = 0;
         long max = 0;
-        
+
         for(int i = 0; i < 4; i++){
             min += array[i];
             max += array[i+1];
         }
-        
+
         System.out.print(min + " " + max);
         scan.close();
     }

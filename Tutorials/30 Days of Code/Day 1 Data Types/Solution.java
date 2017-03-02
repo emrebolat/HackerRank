@@ -1,7 +1,7 @@
         int integerValue;
         double doubleValue;
         String stringValue;
-       
+
         integerValue = scan.nextInt();
         doubleValue = scan.nextDouble();
         scan.nextLine();

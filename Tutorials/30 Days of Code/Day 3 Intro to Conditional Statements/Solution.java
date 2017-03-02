@@ -5,13 +5,13 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution {
-   
+
    public static void main(String[] args) {
       Scanner scan = new Scanner(System.in);
-      int n = scan.nextInt(); 
+      int n = scan.nextInt();
       scan.close();
       String ans="";
-      
+
       if(n%2==1){
          ans = "Weird";
       }
