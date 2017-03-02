@@ -29,3 +29,15 @@ My HackerRank solutions in Java
 | [CamelCase](/Algorithms/Strings/CamelCase/Solution.java) | Easy | 15 | [Link](https://www.hackerrank.com/challenges/camelcase) |
 | [Pangrams](/Algorithms/Strings/Pangrams/Solution.java) | Easy | 20 | [Link](https://www.hackerrank.com/challenges/pangrams) |
 
+## Tutorials
+### 30 Days of Code
+| Challange | Difficulty | Points | Question |
+| --------- |:----------:|:------:|:--------:|
+| [Day 0 Hello, World](/Tutorials/30%20Days%20of%20Code/Day%200%20Hello%2C%20World/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-hello-world) |
+| [Day 1 Data Types](/Tutorials/30%20Days%20of%20Code/Day%201%20Data%20Types/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-data-types) |
+| [Day 2 Operators](/Tutorials/30%20Days%20of%20Code/Day%202%20Operators/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-operators) |
+| [Day 3 Intro to Conditional Statements](/Tutorials/30%20Days%20of%20Code/Day%203%20Intro%20to%20Conditional%20Statements/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-conditional-statements) |
+| [Day 4 Class vs. Instance](/Tutorials/30%20Days%20of%20Code/Day%204%20Class%20vs.%20Instance/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-class-vs-instance) |
+| [Day 5 Loops](/Tutorials/30%20Days%20of%20Code/Day%205%20Loops/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-loops) |
+| [Day 6 Let's Review](/Tutorials/30%20Days%20of%20Code/Day%206%20Let's%20Review/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-review-loop) |
+
