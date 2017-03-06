@@ -1,14 +1,14 @@
 # HackerRank
 My HackerRank solutions.
 
-* [Algorithms](#algorithms)
+* [Algorithms](#algorithms) (Java 8)
   - [Warmup](#warmup)
   - [Implementation](#implementation)
   - [Strings](#strings)
-* [Tutorials](#tutorials)
+* [Tutorials](#tutorials) (Java 8)
   - [30 Days of Code](#30-days-of-code)
   - [10 Days of Statistics](#10-days-of-statistics)
-* [SQL](#sql)
+* [SQL](#sql) (MySQL)
   - [Basic Select](#basic-select)
   - [Advanced Select](#advanced-select)
 
