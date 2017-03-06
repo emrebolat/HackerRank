@@ -7,7 +7,7 @@ My HackerRank solutions.
   - [Strings](#strings)
 * [Tutorials](#tutorials)
   - [30 Days of Code](#30-days-of-code)
-  - [10 Days of Statistics](#10-days of-statistics)
+  - [10 Days of Statistics](#10-days-of-statistics)
 * [SQL](#sql)
   - [Basic Select](#basic-select)
   - [Advanced Select](#advanced-select)
