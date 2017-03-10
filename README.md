@@ -55,6 +55,10 @@ My HackerRank solutions.
 | [Day 8: Dictionaries and Maps](/Tutorials/30%20Days%20of%20Code/Day%208%20Dictionaries%20and%20Maps/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) |
 | [Day 9: Recursion](/Tutorials/30%20Days%20of%20Code/Day%209%20Recursion/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-recursion) |
 | [Day 10: Binary Numbers](/Tutorials/30%20Days%20of%20Code/Day%2010%20Binary%20Numbers/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-binary-numbers) |
+| [Day 11: 2D Arrays](/Tutorials/30%20Days%20of%20Code/Day%2011%202D%20Arrays/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-2d-arrays) |
+| [Day 12: Inheritance](/Tutorials/30%20Days%20of%20Code/Day%2012%20Inheritance/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-inheritance) |
+| [Day 13: Abstract Classes](/Tutorials/30%20Days%20of%20Code/Day%2013%20Abstract%20Classes/Solution.java) | Easy | 30 | [Link](https://www.hackerrank.com/challenges/30-abstract-classes) |
+
 
 ### 10 Days of Statistics
 | Challange | Difficulty | Points | Question |
